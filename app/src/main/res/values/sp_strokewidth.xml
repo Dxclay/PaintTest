@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="strokeWidth">
+        <item>画笔：1</item>
+        <item>画笔：2</item>
+        <item>画笔：3</item>
+        <item>画笔：4</item>
+        <item>画笔：5</item>
+        <item>画笔：6</item>
+        <item>画笔：7</item>
+        <item>画笔：8</item>
+        <item>画笔：9</item>
+        <item>画笔：10</item>
+        <item>画笔：11</item>
+        <item>画笔：12</item>
+
+    </string-array>
+</resources>
